@@ -11,8 +11,6 @@ I'm Nuhan, a passionate developer with expertise in Flutter, backed by Firebase 
 * 🧠  I'm currently learning Microservice architecture and AWS
 * 💬  Ask me about Flutter and Nest JS
 
-* ###
-
 <img align="right" height="150" src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif"  />
 
 ###
