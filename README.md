@@ -32,3 +32,9 @@ I'm Nuhan, a passionate developer with expertise in Flutter, backed by Firebase 
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nuhan021/nuhan021/output/snake.svg" alt="Snake animation" />
+
+###
